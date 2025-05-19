@@ -13,7 +13,7 @@
 | :--------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------ | :----------------- |
 | Created `admin/` folder structure                                                              | Established a dedicated folder for admin panel pages                                  | ✅                  |
 | Developed `index.php`, `form.php`, `logout.php`, `profile.php`, and `register.php` in `admin/` | Core admin features (login, registration, profile, logout, form handling) implemented | ✅                  |
-| Collaborated with teammate Smriti Rai (`code.md`)                                              | Distributed and tracked code contributions for the real estate management system      | ✅                  |
+|  (`code.md`)                                              | Distributed and tracked code contributions for the real estate management system      | ✅                  |
 
 ---
 
