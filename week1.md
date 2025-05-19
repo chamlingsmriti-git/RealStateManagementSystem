@@ -1,9 +1,9 @@
 # Weekly Progress Report
 
-**Student Name:** mriti Rai
+**Student Name:** smriti Rai
 **Week Number:** 1
-**Report Duration:** From 2025-04-22 To 2025-04-28
-**Report Submission Date:** 2025-04-28
+**Report Duration:** From 2025-05-12 To 2025-05-19
+**Report Submission Date:** 2025-05-19
 
 ---
 
